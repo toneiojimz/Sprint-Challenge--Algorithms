@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) O(n), this question only requires one loop
 
 
-b)
+b) O(n^2), this question has a nested loop as well. two loops total
 
 
-c)
+c) O(log n), recursive
 
 ## Exercise II
 
